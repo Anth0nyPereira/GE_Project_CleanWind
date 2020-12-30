@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/List_of_municipalities_of_Portugal
+https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Portugal
+https://upload.wikimedia.org/wikipedia/commons/6/69/Portuguese_municipalities_districts2.PNG
+https://www.pordata.pt/Municipios/Popula%C3%A7%C3%A3o+residente++estimativas+a+31+de+Dezembro-120
+http://freguesiasdeportugal.com/
+https://pt.wikipedia.org/wiki/Lista_de_freguesias_de_Lisboa
+https://www.cm-porto.pt/cidade/freguesias_4
+
+Total concelhos Portugal: 308
+Total freguesias Portugal: 3092
+Total freguesias distrito Lisboa: 24
+Total freguesias distrito Porto: 7
+
+Total máximo de possíveis compradores: 308 + 3092 = 3400
+Total mínimo de possíveis compradores: 308
